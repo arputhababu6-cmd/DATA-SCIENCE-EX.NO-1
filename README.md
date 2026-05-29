@@ -172,5 +172,6 @@ plt.show()
 <img width="577" height="453" alt="image" src="https://github.com/user-attachments/assets/92de0bc4-68e6-4c8c-bfac-316475bcd59a" />
 <img width="763" height="333" alt="image" src="https://github.com/user-attachments/assets/24ab9935-1d8f-4033-9095-e250e775bafe" />
 <img width="567" height="453" alt="image" src="https://github.com/user-attachments/assets/0772b035-145d-455f-8b32-f1360f86fb90" />
+
 # Result
       Thus,the given data is cleaned and the outliers removed using python.
